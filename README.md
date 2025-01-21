@@ -22,5 +22,5 @@ _Esto es cursiva 2_
 - Ensalada
 - Aceite
 
-! [arroz con pollo] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQiFPDdDnlynOO5URCASCtaTwH30qW6rFIug&s)
+![arroz con pollo] (https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQiFPDdDnlynOO5URCASCtaTwH30qW6rFIug&s)
 
