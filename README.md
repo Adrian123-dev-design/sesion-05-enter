@@ -15,3 +15,6 @@
 | como programador, aprendi a       |
 | hacer un README.md y a hacer      |
 | mi pequeña pagina web             |
+
+# Mi vision de crecimiento como desarrollador
+**Espero crecer como desarrollador para poder meterme mas al fondo al mundo de la tecnologia, ya que, debido al avance tecnologico de la inteligencia artificial, en un futuro, la mayoria de empleos sera mediante inteligencia artificial, y sera muy clave saber programar y tener conocimientos sobre ingenieria de software, quiero quiero profundizar mis conocimientos en menciona tecnologías relevantes, como Python, JavaScript, bases de datos, etc. y mejorar mis habilidades en áreas como desarrollo backend, frontend, inteligencia artificial, etc.**
