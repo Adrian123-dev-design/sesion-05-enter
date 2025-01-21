@@ -18,3 +18,8 @@
 
 # Mi vision de crecimiento como desarrollador
 **Espero crecer como desarrollador para poder meterme mas al fondo al mundo de la tecnologia, ya que, debido al avance tecnologico de la inteligencia artificial, en un futuro, la mayoria de empleos sera mediante inteligencia artificial, y sera muy clave saber programar y tener conocimientos sobre ingenieria de software, quiero quiero profundizar mis conocimientos en menciona tecnologías relevantes, como Python, JavaScript, bases de datos, etc. y mejorar mis habilidades en áreas como desarrollo backend, frontend, inteligencia artificial, etc.**
+
+# Cuentas
+1.- https://www.linkedin.com/in/adri%C3%A1n-robbie-oliveros-a13138348/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BBoFvOjVATEqkCAwMnWXp5Q%3D%3D
+2.- https://github.com/Adrian123-dev-design
+3.- correo: adrianrobbieoliveros@gmail.com
